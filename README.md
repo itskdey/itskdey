@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/itskdey">
     Mean Pheakdey
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <!-- Typing SVG by itskdey - https://github.com/itskdey/readme-typing-svg -->
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&width=435&lines=Computer+Science+Student+and+Game+Addict" alt="Typing SVG" /></a>
 </p>
 
@@ -12,11 +12,11 @@
 <p align="center">
   <a href="https://www.youtube.com/c/itskdey"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/itskdey"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/itskdey"><img width="32px" alt="Dev.to" title="itskdey Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -26,19 +26,19 @@
 <br/>
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- Badges with custom icons - https://github.com/itskdey/custom-icon-badges -->
+<!-- View counter - https://github.com/itskdey/Simple-View-Counter -->
 <p align="center">
   <a href="[https://www.youtube.com/c/itskdey?sub_confirmation=1](https://www.youtube.com/channel/UCcLED5up-1-RgYkOYdc_ZUw?sub_confirmation=1)">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+  <a href="https://github.com/itskdey?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/itskdey?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/itskdey?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/itskdey?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/itskdey/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/itskdey-profile-views"/></a>
 </p>
 
 <details open> 
@@ -65,7 +65,7 @@
     </tr>
   </table>
 
-  <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+  <a href="https://github.com/sponsors/itskdey/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
 
 
@@ -154,10 +154,10 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats - https://github.com/itskdey/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github.com/itskdey/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="itskdey's streak" src="https://streak-stats.demolab.com/?user=itskdey&theme=monokai-metallian&hide_border=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
@@ -166,26 +166,26 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="itskdey's Github Stats" src="https://itskdey-github-readme-stats.vercel.app/api/?username=itskdey&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="itskdey's Top Languages" src="https://itskdey-github-readme-stats.vercel.app/api/top-langs/?username=itskdey&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="itskdey's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=itskdey&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#541](https://github.com/DenverCoder1/github-readme-streak-stats/issues/541) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#542](https://github.com/DenverCoder1/github-readme-streak-stats/pull/542) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#540](https://github.com/DenverCoder1/github-readme-streak-stats/issues/540) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#106](https://github.com/DenverCoder1/unedit-for-reddit/issues/106) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-5. 🎉 Merged PR [#865](https://github.com/DenverCoder1/custom-icon-badges/pull/865) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+1. ❗️ Closed issue [#541](https://github.com/itskdey/github-readme-streak-stats/issues/541) in [itskdey/github-readme-streak-stats](https://github.com/itskdey/github-readme-streak-stats)
+2. 🎉 Merged PR [#542](https://github.com/itskdey/github-readme-streak-stats/pull/542) in [itskdey/github-readme-streak-stats](https://github.com/itskdey/github-readme-streak-stats)
+3. 🗣 Commented on [#540](https://github.com/itskdey/github-readme-streak-stats/issues/540) in [itskdey/github-readme-streak-stats](https://github.com/itskdey/github-readme-streak-stats)
+4. 🗣 Commented on [#106](https://github.com/itskdey/unedit-for-reddit/issues/106) in [itskdey/unedit-for-reddit](https://github.com/itskdey/unedit-for-reddit)
+5. 🎉 Merged PR [#865](https://github.com/itskdey/custom-icon-badges/pull/865) in [itskdey/custom-icon-badges](https://github.com/itskdey/custom-icon-badges)
 <!--END_SECTION:activity-->
 
 </details>
@@ -193,5 +193,5 @@
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
-  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
+  <p><a href="https://holopin.io/@itskdey"><img src="https://holopin.me/itskdey" alt="@itskdey&#39;s Holopin board"></a></p>
 </details>
