@@ -1,10 +1,6 @@
-Hiya! This is Pheakdey
-======================
+## Hello, World
 
-Software Dev and Game Addict
---------------------------------
-<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/itskdey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，前端工程师，也会一些 Swift / Rust / Python / Sketch，是 [妙言](https://miaoyan.app/) / [Pake](https://github.com/tw93/pake) / [潮流周刊](https://weekly.tw93.fun/) / [XRender](https://xrender.fun/) / [WeexUi](https://apache.github.io/incubator-weex-ui/) 的作者，信长期主义，喜欢开源，也很喜欢折腾，以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a> 自动更新：
 
 <table width="960px">
 <tr>
@@ -45,10 +41,21 @@ src="https://img.shields.io/github/followers/itskdey?logo=github&style=for-the-b
 <!-- blog ends -->
 
 </td>
-<b>My GitHub Stats</b>
+<td valign="top" width="50%">
 
-<a href="http://www.github.com/itskdey"><img src="https://github-readme-stats.vercel.app/api?username=itskdey&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="itskdey's GitHub stats" /></a>
+#### 🩴 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a>
 
-### Support Me
+<!-- weekly starts -->
 
-<a href="https://www.buymeacoffee.com/danielcranney"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+* [第 135 期 - 香港不错](https://weekly.tw93.fun/posts/135-香港不错) - 2023-07-03
+* [第 134 期 - 看人游泳](https://weekly.tw93.fun/posts/134-看人游泳) - 2023-06-27
+* [第 133 期 - 树上的鸟](https://weekly.tw93.fun/posts/133-树上的鸟) - 2023-06-19
+* [第 132 期 - 可爱雕塑](https://weekly.tw93.fun/posts/132-可爱雕塑) - 2023-06-12
+* [第 131 期 - 大道芸人](https://weekly.tw93.fun/posts/131-大道芸人) - 2023-06-06
+
+<!-- weekly ends -->
+
+</td>
+</tr>
+
+</table>
