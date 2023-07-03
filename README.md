@@ -4,7 +4,7 @@ Hiya! This is Pheakdey
 Software Dev and Game Addict
 --------------------------------
 <a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/itskdey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
