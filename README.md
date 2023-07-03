@@ -1,11 +1,13 @@
-<p align="center">
-  <a href="https://github.com/itskdey">
+<h2 align="center">
+  <a href="https://github.com/itskdey" style="font-family: 'Roboto', sans-serif;">
     Mean Pheakdey
-</p>
+  </a>
+</h2>
+
 
 <p align="center">
   <!-- Typing SVG by itskdey - https://github.com/itskdey/readme-typing-svg -->
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&width=435&lines=Computer+Science+Student+and+Game+Addict" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F70A83&width=435&lines=Computer+Science+Student+and+Game+Addict" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -30,14 +32,15 @@
 <!-- View counter - https://github.com/itskdey/Simple-View-Counter -->
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007396)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Flutter](https://img.shields.io/badge/-flutter-000?&logo=flutter)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Technologies
 
@@ -150,10 +153,10 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+    <a href="#">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=itskdey&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -170,22 +173,15 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=itskdey&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. ❗️ Closed issue [#541](https://github.com/DenverCoder1/github-readme-streak-stats/issues/541) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-2. 🎉 Merged PR [#542](https://github.com/DenverCoder1/github-readme-streak-stats/pull/542) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-3. 🗣 Commented on [#540](https://github.com/DenverCoder1/github-readme-streak-stats/issues/540) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-4. 🗣 Commented on [#106](https://github.com/DenverCoder1/unedit-for-reddit/issues/106) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-5. 🎉 Merged PR [#865](https://github.com/DenverCoder1/custom-icon-badges/pull/865) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-<!--END_SECTION:activity-->
 
 </details>
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=itskdey&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskdey&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<h3>MY FRIEND</h3>
+has a message for you...
 
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
-  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
-</details>
+<br>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+</div>
+<br>
