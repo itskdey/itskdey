@@ -1,8 +1,10 @@
+<!-- Title -->
 <h2 align="center">
-  <a href="https://github.com/itskdey" style="font-family: 'Roboto', sans-serif;">
-    Mean Pheakdey
-  </a>
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="#">Mean Pheakdey</a></b>
+        </samp>
 </h2>
+<br>
 
 
 <p align="center">
@@ -10,23 +12,70 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F70A83&width=435&lines=Computer+Science+Student+and+Game+Addict" alt="Typing SVG" /></a>
 </p>
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/itskdey"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/itskdey"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 
- 
+
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                「 I'm a Computer science student from <b>Cambodia</b> 」
+                <br>
+                「 Software developer by day, code ninja by night, and forever chasing bugs with a side of laughter.</b> 」
+                <br>
+                <br>
+        </samp>
+        <!-- Technologies -->
+        <!-- JavaScript -->
+<!--         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a> -->
+        <!-- React -->
+<!--         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
+                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        </a> -->
+        <!-- NextJS -->
+<!--         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="NextJS"
+                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
+        </a> -->
+        <!-- TailwindCSS -->
+<!--         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="TailwindCSS"
+                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
+        </a> -->
+        <!-- Arduino -->
+<!--         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
+                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        </a> -->
+</p>
+  <!-- Social Links -->
+    <p align="center">Find me on</p>
+ <p align="center">
+    <!-- Mail -->
+    <a href="mailto:connect.meanphekadey069@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <!-- Twitter -->
+    <a href="https://twitter.com/itskdey" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white"></a>
+    <!-- Instagram -->
+    <a href="https://www.instagram.com/itskdey/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F"></a>
+    <!-- Facebook -->
+    <a href="https://www.facebook.com/itskdey/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
+    <!-- Youtube -->
+    <a href="https://www.youtube.com/c/itskdey/videos" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"></a>
 </p>
 
-<br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/itskdey/custom-icon-badges -->
-<!-- View counter - https://github.com/itskdey/Simple-View-Counter -->
+<!-- Details Section -->
+
+<br>
+
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻"
+    </p>
+</samp>
+
+
+
 ### Languages
 
 
@@ -34,8 +83,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![Flutter](https://img.shields.io/badge/-flutter-000?&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
+![Flutter](https://img.shields.io/badge/-flutter-000?&logo=flutter&logoColor=02569B)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
@@ -173,4 +222,59 @@
 
 </details>
 
+  <!-- Featured Repositories -->
+<!--#### Featured
 
+<p align="center">
+<a href="https://github.com/shahriarshafin/shahriarshafin">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/disney-plus-clone">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/Iot-car-controller">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+
+
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt=Mean Pheakdey's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=itskdey&show_icons=true&theme=radical" />
+        <br>
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Mail -->
+        <a href="mailto:connect.shafin@gmail.com" target="_blank"><img alt="Mail"
+                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Twitter -->
+        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
+        </a>
+        <!-- Instagram -->
+        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Instagram"
+                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F">
+        </a>
+       <!-- Facebook -->
+        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Facebook"
+                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
+        </a>
+        <!-- Youtube -->
+        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
+                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        </a>
+    </p>
+<!--</details>
