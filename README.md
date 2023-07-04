@@ -246,35 +246,4 @@
 </p>
 
 
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-        <!-- Activity Widget -->
-        <img alt=Mean Pheakdey's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=itskdey&show_icons=true&theme=radical" />
-        <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Mail -->
-        <a href="mailto:connect.shafin@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Twitter -->
-        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
-        </a>
-        <!-- Instagram -->
-        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Instagram"
-                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F">
-        </a>
-       <!-- Facebook -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Facebook"
-                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
-        </a>
-        <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
-        </a>
-    </p>
-<!--</details>
+
