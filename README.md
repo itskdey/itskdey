@@ -103,13 +103,13 @@
 
 ### School Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🎥%20C++%20Movies%20MS-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](http://www.meanpheakdey.epizy.com/)
+[![](https://img.shields.io/badge/-🎥%20C++%20Movies%20MS-000)](#)
 
 
 ### Cybersecurity Projects
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed%20(working_on_it)-000)](https://github.com/adamalston/Heartbleed)
+[![](https://img.shields.io/badge/-🩸%20Heartbleed%20(working_on_it)-000)](#)
 
 
 <details> 
