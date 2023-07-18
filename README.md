@@ -104,7 +104,12 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 ### School Projects
+##### RUPP Projects
+##### AUPP Projects
+##### ANT Projects
+##### ISTAD Projects
 
+### Personal Projects
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](http://www.meanpheakdey.epizy.com/)
 [![](https://img.shields.io/badge/-🎥%20C++%20Movies%20MS-000)](#)
 
