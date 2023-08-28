@@ -18,9 +18,9 @@
         <!-- Intro -->
         <samp>
                 「 I'm a Computer science student 」
-                <br>
+<!--                 <br>
                 「 Software developer by day, code ninja by night, and forever chasing bugs with a side of laughter.</b> 」
-                <br>
+                <br> -->
                 <br>
         </samp>
         <!-- Technologies -->
