@@ -17,7 +17,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a Computer science student from <b>Cambodia</b> 」
+                「 I'm a Computer science student 」
                 <br>
                 「 Software developer by day, code ninja by night, and forever chasing bugs with a side of laughter.</b> 」
                 <br>
