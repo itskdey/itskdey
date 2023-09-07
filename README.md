@@ -59,7 +59,7 @@
     <!-- Youtube -->
     <a href="https://www.youtube.com/channel/UCcLED5up-1-RgYkOYdc_ZUw" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"></a>
     <!-- Thread -->
-    <a href="https://www.threads.net/" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white"></a>
+    <a href="https://www.threads.net/@itskdey" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white"></a>
 </p>
 
 
