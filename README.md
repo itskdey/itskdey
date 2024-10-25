@@ -46,7 +46,7 @@
                         src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
         </a> -->
 
-        <h2 align="center">Visitors Counts👀</h2>
+       
 <a href="https://github.com/itskdey"><img alt="Cute Count" src="https://moe-counter.glitch.me/get/@itskdey?theme=rule34" /></a>
 </p>
   <!-- Social Links -->
