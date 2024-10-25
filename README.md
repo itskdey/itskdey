@@ -79,9 +79,16 @@
 <!--         "Happy Coding👨‍💻" -->
     </p>
 </samp>
+
 <br>
-<a href="https://github.com/itskdey"><img alt="Cute Count" src="https://moe-counter.glitch.me/get/@itskdey?theme=rule34" /></a>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <a href="https://github.com/itskdey">
+    <img alt="Cute Count" src="https://moe-counter.glitch.me/get/@itskdey?theme=rule34" />
+  </a>
+</div>
+
 <br>
+
 ### Languages
 
 
