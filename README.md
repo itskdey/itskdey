@@ -47,7 +47,7 @@
         </a> -->
 
        
-<a href="https://github.com/itskdey"><img alt="Cute Count" src="https://moe-counter.glitch.me/get/@itskdey?theme=rule34" /></a>
+
 </p>
   <!-- Social Links -->
     <p align="center">Find me on</p>
@@ -79,9 +79,9 @@
 <!--         "Happy Coding👨‍💻" -->
     </p>
 </samp>
-
-
-
+<br>
+<a href="https://github.com/itskdey"><img alt="Cute Count" src="https://moe-counter.glitch.me/get/@itskdey?theme=rule34" /></a>
+<br>
 ### Languages
 
 
