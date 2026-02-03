@@ -82,6 +82,9 @@
 </samp>
 
 <br>
+ <p>
+        ════ View Count ════
+    </p>
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://github.com/itskdey">
     <img alt="Cute Count" src="https://count.getloli.com/@itskdey?theme=booru-lewd" />
