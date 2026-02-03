@@ -84,7 +84,7 @@
 <br>
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://github.com/itskdey">
-    <img alt="Cute Count" src="https://moe-counter.glitch.me/get/@itskdey?theme=rule34" />
+    <img alt="Cute Count" src="https://count.getloli.com/@itskdey?theme=booru-lewd" />
   </a>
 </div>
 
