@@ -29,13 +29,17 @@
 
 ```javascript
 const meanPheakdey = {
+    name: "Mean Pheakdey",
     location: "Phnom Penh, Cambodia",
-    education: "Computer Science Student",
+    education: "Computer Science Student, Cybersecurity Student",
     currentFocus: ["Mobile Development", "Web Development", "Game Development"],
     workingOn: ["ANT QUIZ", "SAHAKUMN+"],
-    learning: ["Flutter", "React Native", "Cloud Architecture"],
-    hobbies: ["Gaming", "Open Source", "Problem Solving"],
+    learning: ["Flutter", "Cloud Architecture","Advanced Flutter Animations", "AR in Flutter", "System Design"],
+    hobbies: ["Gaming", "Open Source", "Problem Solving", "Motorcycles", "Tech Exploration", "Building Cool Apps"],
     askMeAbout: ["Web Dev", "Mobile Dev", "C++", "Python", "Game Design"],
+    role: "Programmer & Flutter Developer",
+    focus: ["Mobile Development", "UI/UX", "Backend APIs"],
+    mainStack: ["Flutter", "Dart", "Supabase", "FastAPI", "Firebase", ],
     funFact: "Software developer by day, code ninja by night! 🥷"
 };
 ```
@@ -219,6 +223,7 @@ const meanPheakdey = {
 ## 🎯 Areas of Interest
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#ff6b6b', 'primaryTextColor':'#fff', 'primaryBorderColor':'#ee5a6f', 'lineColor':'#4ecdc4', 'secondaryColor':'#4ecdc4', 'tertiaryColor':'#ffe66d', 'background':'#1a1a2e', 'mainBkg':'#ff6b6b', 'secondBkg':'#4ecdc4', 'tertiaryBkg':'#95e1d3', 'textColor':'#f8f9fa'}}}%%
 mindmap
   root((Mean Pheakdey))
     Web Development
