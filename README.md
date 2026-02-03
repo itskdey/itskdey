@@ -1,267 +1,285 @@
-<!-- Title -->
-<h2 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Mean Pheakdey</a></b>
-        </samp>
-        
-</h2>
-<br>
-
+<!-- Profile Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70A83&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Mean+Pheakdey;Computer+Science+Student;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <!-- Typing SVG by itskdey - https://github.com/itskdey/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F70A83&width=435&lines=Computer+Science+Student+and+Game+Addict" alt="Typing SVG" /></a>
+  <samp>
+    💻 Software Developer | 🎮 Game Enthusiast | 🚀 Technology Explorer
+  </samp>
 </p>
 
-
+<!-- Social Links -->
+<p align="center">
+  <a href="mailto:connect.meanphekadey069@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/itskdey"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://www.instagram.com/itskdey/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/itskdey/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCcLED5up-1-RgYkOYdc_ZUw"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+</p>
 
 <p align="center">
-        <!-- Intro -->
-        <samp>
-                <!-- 「 working on <a href="https://dcc.gov.kh/home">DCC Mobile</a> 」 -->
-<!--                 <br>
-                「 Software developer by day, code ninja by night, and forever chasing bugs with a side of laughter.</b> 」
-                <br> -->
-                <br>
-                「 working on <a href="https://meanpheakdey.epizy.com/projects/ant-quiz/download/">ANT QUIZ</a> 」
-                <br>
-                「 working on <a href="https://meanpheakdey.epizy.com/projects/ant-quiz/download/">SAHAKUMN+</a> 」
-        </samp>
-        <!-- Technologies -->
-        <!-- JavaScript -->
-<!--         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-        </a> -->
-        <!-- React -->
-<!--         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
-        </a> -->
-        <!-- NextJS -->
-<!--         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="NextJS"
-                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
-        </a> -->
-        <!-- TailwindCSS -->
-<!--         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
-        </a> -->
-        <!-- Arduino -->
-<!--         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
-        </a> -->
-
-       
-
-</p>
-  <!-- Social Links -->
-    <p align="center">Find me on</p>
- <p align="center">
-    <!-- Mail -->
-    <a href="mailto:connect.meanphekadey069@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-    <!-- Twitter -->
-    <a href="https://twitter.com/itskdey" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white"></a>
-    <!-- Instagram -->
-    <a href="https://www.instagram.com/itskdey/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F"></a>
-    <!-- Facebook -->
-    <a href="https://www.facebook.com/itskdey/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
-    <!-- Youtube -->
-    <a href="https://www.youtube.com/channel/UCcLED5up-1-RgYkOYdc_ZUw" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"></a>
-    <!-- Thread -->
-    <a href="https://www.threads.net/@itskdey" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=itskdey&label=Profile%20Views&color=F70A83&style=for-the-badge" alt="Profile views" />
 </p>
 
+---
 
-<!-- Details Section -->
+## 👨‍💻 About Me
 
+```javascript
+const meanPheakdey = {
+    location: "Phnom Penh, Cambodia",
+    education: "Computer Science Student",
+    currentFocus: ["Mobile Development", "Web Development", "Game Development"],
+    workingOn: ["ANT QUIZ", "SAHAKUMN+"],
+    learning: ["Flutter", "React Native", "Cloud Architecture"],
+    hobbies: ["Gaming", "Open Source", "Problem Solving"],
+    askMeAbout: ["Web Dev", "Mobile Dev", "C++", "Python", "Game Design"],
+    funFact: "Software developer by day, code ninja by night! 🥷"
+};
+```
+
+---
+
+## 🚀 Current Projects
+
+### 📱 Active Development
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ANT QUIZ</h3>
+      <p align="center">
+        <a href="https://meanpheakdey.epizy.com/projects/ant-quiz/download/">
+          <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+        </a>
+      </p>
+      <p align="center">
+        An interactive quiz application designed for educational purposes with gamification elements.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">SAHAKUMN+</h3>
+      <p align="center">
+        <a href="https://meanpheakdey.epizy.com/projects/sahakumn/download/">
+          <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge"/>
+        </a>
+      </p>
+      <p align="center">
+        A comprehensive collaboration platform aimed at enhancing productivity and teamwork.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+### Contributed Projects
+
+<details>
+<summary><b>🤝 Open Source Contributions</b></summary>
 <br>
 
-<!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-<!--         "Happy Coding👨‍💻" -->
-    </p>
-</samp>
+> *Add your contributed projects here*
 
-<br>
- <p>
-        ════ View Count ════
-    </p>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://github.com/itskdey">
-    <img alt="Cute Count" src="https://count.getloli.com/@itskdey?theme=booru-lewd" />
-  </a>
-</div>
+- **Project Name** - Brief description of your contribution
+  - Technologies: `Technology Stack`
+  - Role: Your specific contributions
+  - [Repository Link](#)
 
+</details>
+
+### Academic Projects
+
+<details>
+<summary><b>🎓 University & School Projects</b></summary>
 <br>
+
+#### C++ Movie Management System
+- Comprehensive movie database management system built with C++
+- Features: CRUD operations, search functionality, user authentication
+- **Tech Stack:** C++, File I/O, OOP principles
+
+#### Personal Portfolio Website
+- Professional portfolio showcasing projects and skills
+- **Live Demo:** [meanpheakdey.epizy.com](http://www.meanpheakdey.epizy.com/)
+- **Tech Stack:** HTML, CSS, JavaScript, PHP
+
+</details>
+
+### Personal Projects
+
+<details>
+<summary><b>🛠️ Side Projects & Experiments</b></summary>
+<br>
+
+#### Heartbleed Security Analysis
+- Research project analyzing the Heartbleed vulnerability
+- Status: 🔄 In Progress
+- **Focus:** Cybersecurity, Cryptography, Network Security
+
+#### Additional Projects
+- Add your personal projects here
+- Include brief descriptions and technologies used
+
+</details>
+
+---
+
+## 🛠️ Technical Skills
 
 ### Languages
 
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![CSharp](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/badge/-flutter-000?&logo=flutter&logoColor=02569B)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+### Frameworks & Libraries
 
-### Technologies
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-<!--  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) -->
-<!--  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) -->
-<!--  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-<!--  ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis) -->
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-<!--  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) -->
+### Tools & Technologies
 
-### School Projects
-[![](https://img.shields.io/badge/-🎥%20C++%20Movies%20MS-000)](#)
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](http://www.meanpheakdey.epizy.com/)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
+### Databases
 
-### Cybersecurity Projects
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed%20(working_on_it)-000)](#)
+---
 
-
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
-  
-
-  <h3>🧰 Frameworks and Libraries</h3>
-
-  <p>
-      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-      <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
-      <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
-      <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <a href"#"><img alt="Gunicorn" src="https://img.shields.io/badge/-Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
-      <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-      <a href="#"><img alt="Nextcord" src="https://custom-icon-badges.demolab.com/badge/Nextcord-0d1620.svg?logo=nextcord"></a>
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
-      <a href="#"><img alt="Praw" src="https://custom-icon-badges.demolab.com/badge/Praw-ff3c0c.svg?logo=praw"></a>
-      <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="Slim" src="https://custom-icon-badges.demolab.com/badge/Slim-74a045.svg?logo=slim-php"></a>
-      <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
-      <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
-      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-      <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
-  </p>
-
-  <h3>🗄️ Databases and Cloud Hosting</h3>
-
-  <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
-      <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-  </p>
-
-  <h3>💻 Software and Tools</h3>
-
-  <p>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-      <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-      <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
-      <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-      <a href="#"><img alt="Construct 3" src="https://img.shields.io/badge/Construct%203-00b56a.svg?logo=construct-3&logoColor=white"></a>
-      <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
-      <a href="#"><img alt="Dbeaver" src="https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-      <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-      <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-</details>
-
-<details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="#">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=itskdey&theme=monokai-metallian&hide_border=true"/>
-    </a>
-
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=itskdey&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=itskdey&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=itskdey&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-</details>
-
-  <!-- Featured Repositories -->
-<!--#### Featured
+## 📊 GitHub Statistics
 
 <p align="center">
-<a href="https://github.com/shahriarshafin/shahriarshafin">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itskdey&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=itskdey&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_in&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/Iot-car-controller">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskdey&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=Jupyter%20Notebook,Roff" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=itskdey&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itskdey&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
+> **Note:** Top languages is a metric of the languages in my public code and doesn't reflect experience or skill level.
 
+---
+
+## 🎯 Areas of Interest
+
+```mermaid
+mindmap
+  root((Mean Pheakdey))
+    Web Development
+      Frontend
+      Backend
+      Full Stack
+    Mobile Development
+      Flutter
+      React Native
+      Android
+    Game Development
+      Unity
+      Game Design
+      C++ Games
+    Cybersecurity
+      Network Security
+      Vulnerability Analysis
+      Ethical Hacking
+    Data Science
+      Machine Learning
+      Data Analysis
+      Python
+```
+
+---
+
+## 🏆 Achievements & Certifications
+
+<details>
+<summary><b>📜 View Certifications & Achievements</b></summary>
+<br>
+
+> *Add your certifications and achievements here*
+
+- **Certification Name** - Issuing Organization (Year)
+- **Achievement Title** - Description
+- **Competition/Award** - Details
+
+</details>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+> *Coming Soon! Will be sharing technical articles and tutorials.*
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <i>I'm always interested in collaborating on interesting projects, discussing technology, or just having a chat!</i>
+</p>
+
+<p align="center">
+  <a href="mailto:connect.meanphekadey069@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://meanpheakdey.epizy.com">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/itskdey">itskdey</a> - Feel free to star my repositories if you find them interesting!</i>
+</p>
