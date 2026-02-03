@@ -218,30 +218,52 @@ const meanPheakdey = {
 
 ## 🎯 Areas of Interest
 
-```mermaid
-mindmap
-  root((Mean Pheakdey))
-    Web Development
-      Frontend
-      Backend
-      Full Stack
-    Mobile Development
-      Flutter
-      React Native
-      Android
-    Game Development
-      Unity
-      Game Design
-      C++ Games
-    Cybersecurity
-      Network Security
-      Vulnerability Analysis
-      Ethical Hacking
-    Data Science
-      Machine Learning
-      Data Analysis
-      Python
-```
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🌐 Web Development
+- **Frontend** - React, HTML, CSS
+- **Backend** - Node.js, Express
+- **Full Stack** - End-to-end solutions
+
+</td>
+<td width="33%" valign="top">
+
+### 📱 Mobile Development
+- **Flutter** - Cross-platform apps
+- **React Native** - Mobile frameworks
+- **Android** - Native development
+
+</td>
+<td width="33%" valign="top">
+
+### 🎮 Game Development
+- **C++ Games** - Game programming
+- **Game Design** - Mechanics & UX
+- **Unity** - Game engine development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 Cybersecurity
+- **Ethical Hacking** - Penetration testing
+- **Network Security** - Infrastructure protection
+- **Vulnerability Analysis** - Security research
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data Science
+- **Machine Learning** - AI/ML models
+- **Data Analysis** - Insights & visualization
+- **Python** - Data processing & analysis
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -290,5 +312,3 @@ mindmap
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<p align="center">
-  <i>⭐️ From <a href="htt
