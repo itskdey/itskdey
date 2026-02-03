@@ -11,7 +11,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="mailto:connect.meanphekadey069@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="/cdn-cgi/l/email-protection#3b585455555e584f15565e5a554b535e505a5f5e420b0d027b5c565a525715585456"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://twitter.com/itskdey"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://www.instagram.com/itskdey/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -186,9 +186,6 @@ const meanPheakdey = {
 
 ---
 
-## 📊 GitHub Statistics
-
-
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
@@ -199,7 +196,6 @@ const meanPheakdey = {
     <a href="#">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=itskdey&theme=monokai-metallian&hide_border=true"/>
     </a>
-
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -216,10 +212,7 @@ const meanPheakdey = {
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=itskdey&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
 </details>
-
-> **Note:** Top languages is a metric of the languages in my public code and doesn't reflect experience or skill level.
 
 ---
 
@@ -283,7 +276,7 @@ mindmap
 </p>
 
 <p align="center">
-  <a href="mailto:connect.meanphekadey069@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#40232f2e2e2523346e2d25212e3028252b2124253970767900272d21292c6e232f2d">
     <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://meanpheakdey.epizy.com">
@@ -298,5 +291,4 @@ mindmap
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/itskdey">itskdey</a> - Feel free to star my repositories if you find them interesting!</i>
-</p>
+  <i>⭐️ From <a href="htt
