@@ -1,11 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70A83&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Mean+Pheakdey;Computer+Science+Student;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70A83&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Mean+Pheakdey;Flutter+Developer;Mobile+App+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <samp>
-    💻 Software Developer | 🎮 Game Enthusiast | 🚀 Technology Explorer
+    💻 Software Developer | 🎮 Game Enthusiast | 🚀 Technology Explorer | 🏎️ Car and Motorcycle Enthusiast
   </samp>
 </p>
 
@@ -232,8 +232,8 @@ mindmap
       Full Stack
     Mobile Development
       Flutter
-      React Native
       Android
+      iOS
     Game Development
       Unity
       Game Design
@@ -258,9 +258,8 @@ mindmap
 
 > *Add your certifications and achievements here*
 
-- **Certification Name** - Issuing Organization (Year)
-- **Achievement Title** - Description
-- **Competition/Award** - Details
+- **Cybersecurity Professional Certificate** - American Unitversity of Phnom Penh - AUPP (2023)
+- **Achievement Title** - 
 
 </details>
 
@@ -296,4 +295,5 @@ mindmap
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="htt
+  <i>⭐️ From <a href="https://github.com/itskdey">itskdey</a> - Feel free to star my repositories if you find them interesting!</i>
+</p>
