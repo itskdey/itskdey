@@ -60,7 +60,7 @@ const meanPheakdey = {
         </a>
       </p>
       <p align="center">
-        An interactive quiz application designed for educational purposes with gamification elements.
+       ANT QUIZ is a Flutter-based quiz platform with real-time scoring, achievements, and smart learning tools for students.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -75,7 +75,7 @@ const meanPheakdey = {
         </a>
       </p>
       <p align="center">
-        A comprehensive collaboration platform aimed at enhancing productivity and teamwork.
+      SAHAKUMN is a Cambodian community platform that brings people together through social posts, events, and volunteering features in a modern Flutter mobile app.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
