@@ -73,7 +73,7 @@ const meanPheakdey = {
     <td width="50%">
       <h3 align="center">ANT QUIZ</h3>
       <p align="center">
-        <a href="https://meanpheakdey.epizy.com/projects/ant-quiz/download/">
+        <a href="https://quiz-app-project-showcase.vercel.app/">
           <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
         </a>
       </p>
