@@ -5,7 +5,7 @@
 
 <p align="center">
   <samp>
-    💻 Software Developer | 🎮 Game Enthusiast | 🚀 Technology Explorer | 🏎️ Car and Motorcycle Enthusiast
+    💻 Software Developer | 🎮 Game Enthusiast | 🚀 Technology Explorer
   </samp>
 </p>
 
