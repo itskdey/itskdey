@@ -73,7 +73,7 @@ const meanPheakdey = {
     <td width="50%">
       <h3 align="center">khtextify.web</h3>
       <p align="center">
-        <a href="https://quiz-app-project-showcase.vercel.app/](https://khmer-ocr-private.kdey-nompang-dak-sach.chatgpt.site">
+        <a href="https://khmer-ocr-private.kdey-nompang-dak-sach.chatgpt.site">
           <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
         </a>
       </p>
