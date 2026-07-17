@@ -71,9 +71,9 @@ const meanPheakdey = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">ANT QUIZ</h3>
+      <h3 align="center">khtextify.web</h3>
       <p align="center">
-        <a href="https://quiz-app-project-showcase.vercel.app/">
+        <a href="https://quiz-app-project-showcase.vercel.app/](https://khmer-ocr-private.kdey-nompang-dak-sach.chatgpt.site">
           <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
         </a>
       </p>
@@ -88,7 +88,7 @@ const meanPheakdey = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">SAHAKUMN+</h3>
+      <h3 align="center">khtextify.app</h3>
       <p align="center">
         <a href="https://meanpheakdey.epizy.com/projects/sahakumn/download/">
           <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge"/>
