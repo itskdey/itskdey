@@ -51,13 +51,13 @@ const meanPheakdey = {
     location: "Phnom Penh, Cambodia",
     education: "Computer Science Student, Cybersecurity Student",
     currentFocus: ["Mobile Development", "Web Development", "Game Development"],
-    workingOn: ["ANT QUIZ", "SAHAKUMN+"],
-    learning: ["Flutter", "Cloud Architecture","Advanced Flutter Animations", "AR in Flutter", "System Design"],
+    workingOn: ["KhTextify"],
+    learning: ["Flutter", "Cloud Architecture", "Advanced Flutter Animations", "AR in Flutter", "System Design"],
     hobbies: ["Gaming", "Open Source", "Problem Solving", "Motorcycles", "Tech Exploration", "Building Cool Apps"],
     askMeAbout: ["Web Dev", "Mobile Dev", "C++", "Python", "Game Design"],
     role: "Programmer & Flutter Developer",
     focus: ["Mobile Development", "UI/UX", "Backend APIs"],
-    mainStack: ["Flutter", "Dart", "Supabase", "FastAPI", "Firebase", ],
+    mainStack: ["Flutter", "Dart", "GetX", "Supabase", "Cloudinary"],
     funFact: "Software developer by day, code ninja by night! 🥷"
 };
 ```
@@ -71,38 +71,37 @@ const meanPheakdey = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">khtextify.web</h3>
+      <h3 align="center">KhTextify</h3>
       <p align="center">
-        <a href="https://khmer-ocr-private.kdey-nompang-dak-sach.chatgpt.site">
-          <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-       ANT QUIZ is a Flutter-based quiz platform with real-time scoring, achievements, and smart learning tools for students.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">khtextify.app</h3>
-      <p align="center">
-        <a href="https://meanpheakdey.epizy.com/projects/sahakumn/download/">
+        <a href="https://khtextify.app">
           <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge"/>
         </a>
       </p>
       <p align="center">
-      SAHAKUMN is a Cambodian community platform that brings people together through social posts, events, and volunteering features in a modern Flutter mobile app.
+        A Khmer OCR scanning and text utility mobile app — scan, extract, and organize Khmer-language text, with a diary module, note editor, and AI chat panel for working with scanned content.
       </p>
       <p align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GetX-6200EE?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">KhTextify Web</h3>
+      <p align="center">
+        <a href="https://khtextify.app">
+          <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge"/>
+        </a>
+      </p>
+      <p align="center">
+        The companion web presence for KhTextify — landing page and product info for the Khmer OCR app, built to match the app's premium visual style.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
     </td>
   </tr>
@@ -281,7 +280,7 @@ mindmap
 
 > *Add your certifications and achievements here*
 
-- **Cybersecurity Professional Certificate** - American Unitversity of Phnom Penh - AUPP (2023)
+- **Cybersecurity Professional Certificate** - American University of Phnom Penh - AUPP (2023)
 - **Achievement Title** - 
 
 </details>
@@ -303,7 +302,7 @@ mindmap
 </p>
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#40232f2e2e2523346e2d25212e3028252b2124253970767900272d21292c6e232f2d">
+  <a href="mailto:meanpheakdey069@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://meanpheakdey.epizy.com">
