@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70A83&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Mean+Pheakdey;Flutter+Developer;Mobile+App+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <samp>
     💻 Software Developer | 🎮 Game Enthusiast | 🚀 Technology Explorer
   </samp>
-</p>
+</p> -->
 
 <!-- Social Links -->
 <p align="center">
