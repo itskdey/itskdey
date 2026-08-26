@@ -1,1 +1,44 @@
-<svg width="720" height="220" viewBox="0 0 720 220" fill="none" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#223142" opacity=".34"/></pattern><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6EE7FF"/><stop offset="1" stop-color="#7CFFB2"/></linearGradient></defs><rect width="720" height="220" rx="22" fill="#0A0F14"/><rect width="720" height="220" rx="22" fill="url(#g)"/><rect x="1" y="1" width="718" height="218" rx="21" stroke="#293646" stroke-width="2"/><text x="24" y="31" fill="#7F8D9B" font-family="monospace" font-size="11">FULL_WIDTH_DROPDOWN_BUTTON / UI PACKAGE</text><text x="24" y="66" fill="#F3F7FB" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Menus that feel intentional.</text><text x="24" y="94" fill="#AAB6C3" font-family="Arial,Helvetica,sans-serif" font-size="15">Nested actions · smart overlays · animated interaction.</text><g transform="translate(24 124)"><rect width="74" height="30" rx="9" fill="#101720" stroke="#2D3A48"/><text x="13" y="20" fill="#EAF0F6" font-family="monospace" font-size="11">Flutter</text></g><g transform="translate(106 124)"><rect width="68" height="30" rx="9" fill="#101720" stroke="#2D3A48"/><text x="13" y="20" fill="#EAF0F6" font-family="monospace" font-size="11">Overlay</text></g><g transform="translate(182 124)"><rect width="78" height="30" rx="9" fill="#101720" stroke="#2D3A48"/><text x="13" y="20" fill="#EAF0F6" font-family="monospace" font-size="11">Animation</text></g><g transform="translate(406 26)"><rect width="284" height="164" rx="16" fill="#0E151C" stroke="#2D3A48"/><rect x="18" y="18" width="126" height="34" rx="10" fill="#121B24" stroke="#334250"/><text x="31" y="39" fill="#F4F8FC" font-family="monospace" font-size="11">Filter menu</text><path d="M119 31L127 39L135 31" stroke="#7CFFB2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><rect x="18" y="62" width="164" height="82" rx="12" fill="#101820" stroke="#31404D"/><text x="31" y="83" fill="#6EE7FF" font-family="monospace" font-size="10">Food type</text><text x="42" y="104" fill="#D7DEE6" font-family="monospace" font-size="10">Soup</text><rect x="35" y="112" width="130" height="24" rx="7" fill="#17232B"/><text x="42" y="127" fill="#F4F8FC" font-family="monospace" font-size="10">Grill           ›</text><rect x="192" y="86" width="74" height="58" rx="10" fill="#111A22" stroke="#334250"/><text x="205" y="107" fill="#AAB6C3" font-family="monospace" font-size="9">Beef</text><text x="205" y="127" fill="#AAB6C3" font-family="monospace" font-size="9">Chicken</text><path d="M178 124H192" stroke="#6EE7FF" stroke-width="2"/><circle cx="178" cy="124" r="3" fill="#6EE7FF"/></g><rect x="24" y="188" width="174" height="3" rx="1.5" fill="url(#a)"/></svg>
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#223142" opacity=".28"/></pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6EE7FF"/><stop offset="1" stop-color="#D8FF72"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="#0A0F14"/><rect width="1200" height="300" rx="24" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="298" rx="23" stroke="#293646" stroke-width="2"/>
+
+  <g transform="translate(34 28)">
+    <rect width="554" height="244" rx="18" fill="#0E151C" stroke="#2D3A48"/>
+    <text x="18" y="28" fill="#758391" font-family="monospace" font-size="10">COMPONENT PREVIEW / INTERACTION STATE</text>
+
+    <rect x="28" y="54" width="180" height="42" rx="12" fill="#111922" stroke="#30404E"/>
+    <text x="46" y="80" fill="#F4F8FC" font-family="Arial,Helvetica,sans-serif" font-size="14">Filter menu</text>
+    <path d="M180 70L188 78L196 70" stroke="#7CFFB2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="28" y="108" width="210" height="110" rx="14" fill="#0B1118" stroke="#2D3A48"/>
+    <rect x="42" y="122" width="182" height="28" rx="8" fill="#13202A" stroke="#24505A"/>
+    <text x="56" y="140" fill="#F4F8FC" font-family="monospace" font-size="11">Food type</text>
+    <path d="M197 131L204 138L211 131" stroke="#6EE7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="56" y="170" fill="#AAB6C3" font-family="monospace" font-size="10">Popular</text>
+    <text x="56" y="195" fill="#FF8E8E" font-family="monospace" font-size="10">Clear all</text>
+
+    <path d="M238 136H268V148" stroke="#475666" stroke-width="2"/>
+    <rect x="268" y="112" width="218" height="106" rx="14" fill="#0B1118" stroke="#2D3A48"/>
+    <text x="284" y="135" fill="#748291" font-family="monospace" font-size="9">FOOD TYPE</text>
+    <rect x="282" y="146" width="190" height="24" rx="7" fill="#132329" stroke="#24505A"/>
+    <text x="296" y="162" fill="#7CFFB2" font-family="monospace" font-size="10">Soup</text>
+    <text x="296" y="187" fill="#AAB6C3" font-family="monospace" font-size="10">Grill</text>
+    <text x="296" y="210" fill="#AAB6C3" font-family="monospace" font-size="10">Stir-fry</text>
+
+    <circle cx="472" cy="160" r="7" fill="#6EE7FF" opacity=".9"/>
+    <path d="M472 160L486 177" stroke="#6EE7FF" stroke-width="2" opacity=".8"/>
+  </g>
+
+  <text x="628" y="42" fill="#6EE7FF" font-family="monospace" font-size="12" letter-spacing="1.5">04 / FULL_WIDTH_DROPDOWN_BUTTON</text>
+  <text x="628" y="94" fill="#F4F8FC" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="700">A dropdown that feels finished.</text>
+  <text x="628" y="129" fill="#AEB9C5" font-family="Arial,Helvetica,sans-serif" font-size="18">Reusable Flutter UI with nested menus, smart overlays, hover, and motion.</text>
+  <text x="628" y="158" fill="#7F8D9B" font-family="Arial,Helvetica,sans-serif" font-size="16">Built for real app surfaces instead of one-off menu code.</text>
+  <g transform="translate(628 194)"><rect width="84" height="34" rx="10" fill="#101720" stroke="#2D3A48"/><text x="15" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">Package</text></g>
+  <g transform="translate(722 194)"><rect width="76" height="34" rx="10" fill="#101720" stroke="#2D3A48"/><text x="15" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">Overlay</text></g>
+  <g transform="translate(808 194)"><rect width="96" height="34" rx="10" fill="#101720" stroke="#2D3A48"/><text x="15" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">Animation</text></g>
+  <text x="628" y="266" fill="#6EE7FF" font-family="monospace" font-size="12">github.com/itskdey/full_width_dropdown_button  →</text>
+  <rect x="628" y="282" width="210" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
