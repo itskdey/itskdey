@@ -1,15 +1,27 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Mean Pheakdey — Flutter developer, open source, Khmer tech" width="100%" />
+</p>
+
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Mean Pheakdey — Flutter developer, open source, Khmer tech" width="100%" />
+# Mean Pheakdey
 
-<br />
+**Flutter developer building developer tools, local-first apps, and Khmer-first software.**
 
-[![GitHub](https://img.shields.io/badge/@itskdey-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itskdey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://www.linkedin.com/in/mean-pheakdey-6849a4287/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=B7FF64)](mailto:meanpheakdey069@gmail.com)
-[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/itskdey)
+Phnom Penh, Cambodia · [`@itskdey`](https://github.com/itskdey)
+
+<a href="mailto:meanpheakdey069@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mean-pheakdey-6849a4287/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=61DAFB" alt="LinkedIn" /></a>
+<a href="https://twitter.com/itskdey"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://github.com/itskdey"><img src="https://komarev.com/ghpvc/?username=itskdey&style=for-the-badge&label=PROFILE+VIEWS&color=111111" alt="Profile views" /></a>
+
+<p>
+  <code>Flutter</code> · <code>DevTools</code> · <code>OCR</code> · <code>Open Source</code>
+</p>
 
 </div>
+
+---
 
 ## `> whoami`
 
