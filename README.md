@@ -36,67 +36,30 @@ I'm a Flutter developer focused on **developer tooling**, **local-first mobile p
 ---
 
 <p align="center">
-  <img src="./assets/banner-building.svg" alt="What I'm building now" width="100%" />
+  <img src="./assets/banner-building.svg" alt="Featured projects" width="100%" />
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/itskdey/flutterlens">
+  <img src="./assets/project-flutterlens.svg" alt="FlutterLens — visual Flutter inspector" width="100%" />
+</a>
 
-<img src="./assets/project-flutterlens.svg" alt="FlutterLens project banner" width="100%" />
+<br />
 
-### [FlutterLens](https://github.com/itskdey/flutterlens)
+<a href="https://github.com/itskdey/qr_ferry_flutter">
+  <img src="./assets/project-qrferry.svg" alt="QRFerry — optical file transfer" width="100%" />
+</a>
 
-Inspect running Flutter apps with a **live widget tree, selection sync, layout details, and source navigation**.
+<br />
 
-`DevTools` `Inspector` `VM Service` `Flutter`
+<a href="https://khtextify.app">
+  <img src="./assets/project-khtextify-app.svg" alt="khtextify.app — Khmer OCR and text tools" width="100%" />
+</a>
 
-**→ [Explore FlutterLens](https://github.com/itskdey/flutterlens)**
+<br />
 
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/project-qrferry.svg" alt="QRFerry project banner" width="100%" />
-
-### [QRFerry](https://github.com/itskdey/qr_ferry_flutter)
-
-Transfer files between devices through **animated QR frames** — no network, account, cloud storage, or backend.
-
-`Flutter` `QR byte mode` `CRC32` `Local-first`
-
-**→ [Explore QRFerry](https://github.com/itskdey/qr_ferry_flutter)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/project-khtextify-app.svg" alt="khtextify.app project banner" width="100%" />
-
-### [khtextify.app](https://khtextify.app)
-
-Khmer-first OCR and text utilities for **extracting, cleaning, organizing, and working with Khmer text**.
-
-`Flutter` `OCR` `Tesseract` `Supabase` `Khmer`
-
-**→ [Visit khtextify.app](https://khtextify.app)**
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/project-dropdown.svg" alt="full_width_dropdown_button project banner" width="100%" />
-
-### [full_width_dropdown_button](https://github.com/itskdey/full_width_dropdown_button)
-
-A polished Flutter dropdown package with **nested submenus, smart positioning, and animated interactions**.
-
-`Flutter Package` `UI` `Overlay` `Animation`
-
-**→ [View package source](https://github.com/itskdey/full_width_dropdown_button)**
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/itskdey/full_width_dropdown_button">
+  <img src="./assets/project-dropdown.svg" alt="full_width_dropdown_button — reusable Flutter dropdown package" width="100%" />
+</a>
 
 ---
 
