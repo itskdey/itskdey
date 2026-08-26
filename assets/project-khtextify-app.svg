@@ -1,1 +1,42 @@
-<svg width="720" height="220" viewBox="0 0 720 220" fill="none" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#223142" opacity=".34"/></pattern><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7CFFB2"/><stop offset="1" stop-color="#D8FF72"/></linearGradient></defs><rect width="720" height="220" rx="22" fill="#0A0F14"/><rect width="720" height="220" rx="22" fill="url(#g)"/><rect x="1" y="1" width="718" height="218" rx="21" stroke="#293646" stroke-width="2"/><text x="24" y="31" fill="#7F8D9B" font-family="monospace" font-size="11">KHTEXTIFY.APP / KHMER OCR</text><text x="24" y="66" fill="#F3F7FB" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Turn Khmer pixels into text.</text><text x="24" y="94" fill="#AAB6C3" font-family="Arial,Helvetica,sans-serif" font-size="15">Capture · recognize · clean · organize · reuse.</text><g transform="translate(24 124)"><rect width="66" height="30" rx="9" fill="#101720" stroke="#2D3A48"/><text x="13" y="20" fill="#EAF0F6" font-family="monospace" font-size="11">OCR</text></g><g transform="translate(98 124)"><rect width="92" height="30" rx="9" fill="#101720" stroke="#2D3A48"/><text x="13" y="20" fill="#EAF0F6" font-family="monospace" font-size="11">Tesseract</text></g><g transform="translate(198 124)"><rect width="86" height="30" rx="9" fill="#101720" stroke="#2D3A48"/><text x="13" y="20" fill="#EAF0F6" font-family="monospace" font-size="11">Supabase</text></g><g transform="translate(392 28)"><rect width="298" height="160" rx="16" fill="#0E151C" stroke="#2D3A48"/><text x="16" y="24" fill="#7CFFB2" font-family="monospace" font-size="10">OCR PREVIEW / 97.2%</text><rect x="18" y="42" width="122" height="88" rx="10" fill="#111A22" stroke="#30404D"/><rect x="30" y="56" width="74" height="18" rx="4" stroke="#6EE7FF"/><rect x="38" y="82" width="86" height="20" rx="4" stroke="#D8FF72"/><rect x="26" y="110" width="98" height="12" rx="4" stroke="#7CFFB2"/><text x="156" y="58" fill="#657381" font-family="monospace" font-size="9">EXTRACTED TEXT</text><text x="156" y="81" fill="#F4F8FC" font-family="sans-serif" font-size="16">អក្សរខ្មែរ</text><text x="156" y="104" fill="#F4F8FC" font-family="sans-serif" font-size="16">បម្លែងទៅជាអត្ថបទ</text><rect x="156" y="120" width="112" height="22" rx="7" fill="#14221D" stroke="#294B3C"/><text x="169" y="134" fill="#D8FF72" font-family="monospace" font-size="9">khtextify.app</text></g><rect x="24" y="188" width="174" height="3" rx="1.5" fill="url(#a)"/></svg>
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#223142" opacity=".28"/></pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7CFFB2"/><stop offset="1" stop-color="#6EE7FF"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="#0A0F14"/><rect width="1200" height="300" rx="24" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="298" rx="23" stroke="#293646" stroke-width="2"/>
+
+  <text x="36" y="42" fill="#7CFFB2" font-family="monospace" font-size="12" letter-spacing="1.5">03 / KHTEXTIFY.APP</text>
+  <text x="36" y="94" fill="#F4F8FC" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700">Khmer text, made usable.</text>
+  <text x="36" y="129" fill="#AEB9C5" font-family="Arial,Helvetica,sans-serif" font-size="18">OCR and text utilities designed around real Khmer-language workflows.</text>
+  <text x="36" y="158" fill="#7F8D9B" font-family="Arial,Helvetica,sans-serif" font-size="16">Scan · extract · clean · organize · transform · work with Khmer text</text>
+  <g transform="translate(36 194)"><rect width="78" height="34" rx="10" fill="#101720" stroke="#2D3A48"/><text x="15" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">Flutter</text></g>
+  <g transform="translate(124 194)"><rect width="62" height="34" rx="10" fill="#101720" stroke="#2D3A48"/><text x="17" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">OCR</text></g>
+  <g transform="translate(196 194)"><rect width="100" height="34" rx="10" fill="#101720" stroke="#2D3A48"/><text x="15" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">Tesseract</text></g>
+  <text x="36" y="266" fill="#7CFFB2" font-family="monospace" font-size="12">khtextify.app  →</text>
+
+  <g transform="translate(574 28)">
+    <rect width="590" height="244" rx="18" fill="#0E151C" stroke="#2D3A48"/>
+    <rect x="18" y="18" width="218" height="208" rx="14" fill="#F4F0E7"/>
+    <text x="34" y="43" fill="#505B66" font-family="monospace" font-size="9">SOURCE / PAGE 01</text>
+    <rect x="34" y="58" width="168" height="28" rx="5" fill="none" stroke="#27B7C7" stroke-width="2"/>
+    <rect x="34" y="98" width="142" height="28" rx="5" fill="none" stroke="#9BCB43" stroke-width="2"/>
+    <rect x="34" y="138" width="156" height="28" rx="5" fill="none" stroke="#27B7C7" stroke-width="2"/>
+    <rect x="34" y="178" width="116" height="28" rx="5" fill="none" stroke="#9BCB43" stroke-width="2"/>
+    <text x="43" y="78" fill="#151A20" font-family="Noto Sans Khmer, Khmer OS, sans-serif" font-size="15">អត្ថបទខ្មែរ</text>
+    <text x="43" y="118" fill="#151A20" font-family="Noto Sans Khmer, Khmer OS, sans-serif" font-size="15">ភាសាខ្មែរ</text>
+    <text x="43" y="158" fill="#151A20" font-family="Noto Sans Khmer, Khmer OS, sans-serif" font-size="15">ស្គាល់អក្សរ</text>
+    <text x="43" y="198" fill="#151A20" font-family="Noto Sans Khmer, Khmer OS, sans-serif" font-size="15">ឯកសារ</text>
+
+    <path d="M255 122H296" stroke="#6EE7FF" stroke-width="2" stroke-dasharray="6 5"/><path d="M286 116L297 122L286 128" stroke="#7CFFB2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="316" y="18" width="256" height="208" rx="14" fill="#0B1118" stroke="#263441"/>
+    <text x="332" y="43" fill="#7CFFB2" font-family="monospace" font-size="9">EXTRACTED TEXT</text>
+    <text x="332" y="74" fill="#F4F8FC" font-family="Noto Sans Khmer, Khmer OS, sans-serif" font-size="18">អត្ថបទខ្មែរ</text>
+    <text x="332" y="105" fill="#F4F8FC" font-family="Noto Sans Khmer, Khmer OS, sans-serif" font-size="18">ភាសាខ្មែរ</text>
+    <text x="332" y="136" fill="#F4F8FC" font-family="Noto Sans Khmer, Khmer OS, sans-serif" font-size="18">ស្គាល់អក្សរ</text>
+    <text x="332" y="167" fill="#F4F8FC" font-family="Noto Sans Khmer, Khmer OS, sans-serif" font-size="18">ឯកសារ</text>
+    <rect x="332" y="188" width="92" height="22" rx="7" fill="#132329" stroke="#24505A"/><text x="346" y="203" fill="#7CFFB2" font-family="monospace" font-size="9">KHM + ENG</text>
+    <rect x="434" y="188" width="118" height="22" rx="7" fill="#121B24"/><text x="449" y="203" fill="#AAB6C3" font-family="monospace" font-size="9">OCR READY</text>
+  </g>
+  <rect x="36" y="282" width="210" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
