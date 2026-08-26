@@ -29,14 +29,9 @@ Phnom Penh, Cambodia · [`@itskdey`](https://github.com/itskdey)
 
 I'm a Flutter developer focused on **developer tooling**, **local-first mobile products**, and **Khmer-first software**. I like building things with a clear technical idea, a considered interface, and enough depth to learn from in public.
 
-```text
-CURRENT MODE
-────────────
-tooling      Flutter · DevTools · VM Service
-product      mobile UX · motion · local-first
-language     Khmer OCR · text technology
-shipping     open source · packages · experiments
-```
+<p align="center">
+  <img src="./assets/banner-currently.svg" alt="What I'm currently building and exploring" width="100%" />
+</p>
 
 ---
 
@@ -106,15 +101,15 @@ A polished Flutter dropdown package with **nested submenus, smart positioning, a
 ---
 
 <p align="center">
-  <img src="./assets/banner-open-source.svg" alt="Selected open source" width="100%" />
+  <img src="./assets/banner-lab.svg" alt="Lab and experiments" width="100%" />
 </p>
 
-| Project | What it explores |
+| Experiment | What I'm exploring |
 | --- | --- |
-| **[FlutterLens](https://github.com/itskdey/flutterlens)** | Runtime inspection using real Flutter DevTools + Inspector APIs |
-| **[QRFerry](https://github.com/itskdey/qr_ferry_flutter)** | Air-gapped optical transfer using animated QR frames |
-| **[full_width_dropdown_button](https://github.com/itskdey/full_width_dropdown_button)** | Interaction-heavy reusable Flutter UI |
-| **[tesseract_khmer_training](https://github.com/itskdey/tesseract_khmer_training)** | Khmer OCR training and recognition experiments |
+| **[tesseract_khmer_training](https://github.com/itskdey/tesseract_khmer_training)** | Khmer OCR training, recognition quality, and Tesseract workflows |
+| **[transition_animations](https://github.com/itskdey/transition_animations)** | Flutter motion, transitions, and interaction experiments |
+| **[note_taking_app](https://github.com/itskdey/note_taking_app)** | Local note-taking UX, application structure, and mobile UI ideas |
+| **[flutter-fetch-data-from-DB-file](https://github.com/itskdey/flutter-fetch-data-from-DB-file)** | Reading bundled SQLite data and local-data patterns in Flutter |
 
 ---
 
