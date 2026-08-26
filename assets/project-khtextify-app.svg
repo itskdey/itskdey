@@ -1,0 +1,39 @@
+<svg width="720" height="220" viewBox="0 0 720 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#223142" stroke-width="1" opacity="0.35"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7CFFB2"/>
+      <stop offset="1" stop-color="#D8FF72"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="220" rx="22" fill="#0A0F14"/>
+  <rect width="720" height="220" rx="22" fill="url(#grid)"/>
+  <rect x="1" y="1" width="718" height="218" rx="21" stroke="#293646" stroke-width="2"/>
+  <text x="28" y="34" fill="#7F8D9B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">project/khtextify.app</text>
+  <text x="28" y="76" fill="#F3F7FB" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Khmer OCR + text tools</text>
+  <text x="28" y="106" fill="#AAB6C3" font-family="Arial,Helvetica,sans-serif" font-size="16">Extract · transform · organize Khmer text</text>
+  <g transform="translate(28 140)">
+    <rect width="92" height="34" rx="10" fill="#101720" stroke="#2D3A48"/>
+    <text x="15" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">Flutter</text>
+  </g>
+  <g transform="translate(130 140)">
+    <rect width="74" height="34" rx="10" fill="#101720" stroke="#2D3A48"/>
+    <text x="15" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">OCR</text>
+  </g>
+  <g transform="translate(214 140)">
+    <rect width="112" height="34" rx="10" fill="#101720" stroke="#2D3A48"/>
+    <text x="15" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">Tesseract</text>
+  </g>
+  <g transform="translate(470 38)">
+    <rect width="202" height="130" rx="16" fill="#0F151D" stroke="#2C3947"/>
+    <text x="18" y="28" fill="#7CFFB2" font-family="monospace" font-size="11">ocr.preview</text>
+    <text x="18" y="58" fill="#F4F8FC" font-family="Arial,Helvetica,sans-serif" font-size="20">អក្សរ</text>
+    <text x="18" y="86" fill="#F4F8FC" font-family="Arial,Helvetica,sans-serif" font-size="18">ភាសាខ្មែរ</text>
+    <text x="18" y="114" fill="#F4F8FC" font-family="monospace" font-size="12">khtextify.app</text>
+    <rect x="132" y="96" width="50" height="18" rx="9" fill="#16212B"/>
+    <text x="143" y="109" fill="#D8FF72" font-family="monospace" font-size="9">OCR</text>
+  </g>
+  <rect x="28" y="194" width="160" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
