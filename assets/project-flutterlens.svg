@@ -1,1 +1,40 @@
-<svg width="720" height="220" viewBox="0 0 720 220" fill="none" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#223142" opacity=".34"/></pattern><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6EE7FF"/><stop offset="1" stop-color="#7CFFB2"/></linearGradient></defs><rect width="720" height="220" rx="22" fill="#0A0F14"/><rect width="720" height="220" rx="22" fill="url(#g)"/><rect x="1" y="1" width="718" height="218" rx="21" stroke="#293646" stroke-width="2"/><text x="24" y="31" fill="#7F8D9B" font-family="monospace" font-size="11">FLUTTERLENS / INSPECTOR</text><text x="24" y="66" fill="#F3F7FB" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">See the widget tree live.</text><text x="24" y="94" fill="#AAB6C3" font-family="Arial,Helvetica,sans-serif" font-size="15">Runtime inspection with real Flutter tooling APIs.</text><g transform="translate(24 124)"><rect width="82" height="30" rx="9" fill="#101720" stroke="#2D3A48"/><text x="13" y="20" fill="#EAF0F6" font-family="monospace" font-size="11">DevTools</text></g><g transform="translate(114 124)"><rect width="86" height="30" rx="9" fill="#101720" stroke="#2D3A48"/><text x="13" y="20" fill="#EAF0F6" font-family="monospace" font-size="11">Inspector</text></g><g transform="translate(208 124)"><rect width="94" height="30" rx="9" fill="#101720" stroke="#2D3A48"/><text x="13" y="20" fill="#EAF0F6" font-family="monospace" font-size="11">VM Service</text></g><g transform="translate(416 28)"><rect width="274" height="160" rx="16" fill="#0E151C" stroke="#2D3A48"/><rect x="0" y="0" width="274" height="30" rx="16" fill="#111922"/><circle cx="16" cy="15" r="4" fill="#6EE7FF"/><text x="29" y="19" fill="#7D8995" font-family="monospace" font-size="10">widget_tree.dart</text><path d="M116 31V160" stroke="#273441"/><text x="12" y="51" fill="#6EE7FF" font-family="monospace" font-size="10">TREE</text><text x="128" y="51" fill="#D8FF72" font-family="monospace" font-size="10">PROPERTIES</text><circle cx="17" cy="70" r="3" fill="#7CFFB2"/><text x="28" y="74" fill="#F1F5F9" font-family="monospace" font-size="10">MaterialApp</text><path d="M17 73V93H31" stroke="#475666"/><circle cx="31" cy="93" r="3" fill="#6EE7FF"/><text x="42" y="97" fill="#F1F5F9" font-family="monospace" font-size="10">Scaffold</text><path d="M31 96V116H45" stroke="#475666"/><circle cx="45" cy="116" r="3" fill="#D8FF72"/><text x="56" y="120" fill="#F1F5F9" font-family="monospace" font-size="10">Column</text><rect x="124" y="67" width="136" height="22" rx="6" fill="#131C25"/><text x="132" y="81" fill="#AAB6C3" font-family="monospace" font-size="9">size   390 × 844</text><rect x="124" y="97" width="136" height="22" rx="6" fill="#131C25"/><text x="132" y="111" fill="#AAB6C3" font-family="monospace" font-size="9">source main.dart:42</text><rect x="124" y="127" width="94" height="20" rx="6" fill="#152329" stroke="#24505A"/><text x="132" y="140" fill="#7CFFB2" font-family="monospace" font-size="9">SELECTED</text></g><rect x="24" y="188" width="174" height="3" rx="1.5" fill="url(#a)"/></svg>
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#223142" opacity=".28"/></pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6EE7FF"/><stop offset="1" stop-color="#7CFFB2"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="#0A0F14"/><rect width="1200" height="300" rx="24" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="298" rx="23" stroke="#293646" stroke-width="2"/>
+
+  <text x="36" y="42" fill="#6EE7FF" font-family="monospace" font-size="12" letter-spacing="1.5">01 / FLUTTERLENS</text>
+  <text x="36" y="94" fill="#F4F8FC" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700">Inspect Flutter visually.</text>
+  <text x="36" y="129" fill="#AEB9C5" font-family="Arial,Helvetica,sans-serif" font-size="18">A denser, design-tool-inspired workflow for the real Flutter Inspector.</text>
+  <text x="36" y="158" fill="#7F8D9B" font-family="Arial,Helvetica,sans-serif" font-size="16">Live widget tree · selection sync · layout · properties · source locations</text>
+
+  <g transform="translate(36 194)"><rect width="94" height="34" rx="10" fill="#101720" stroke="#2D3A48"/><text x="15" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">DevTools</text></g>
+  <g transform="translate(140 194)"><rect width="100" height="34" rx="10" fill="#101720" stroke="#2D3A48"/><text x="15" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">Inspector</text></g>
+  <g transform="translate(250 194)"><rect width="112" height="34" rx="10" fill="#101720" stroke="#2D3A48"/><text x="15" y="22" fill="#EAF0F6" font-family="monospace" font-size="12">VM Service</text></g>
+  <text x="36" y="266" fill="#6EE7FF" font-family="monospace" font-size="12">github.com/itskdey/flutterlens  →</text>
+
+  <g transform="translate(570 28)">
+    <rect width="594" height="244" rx="18" fill="#0E151C" stroke="#2D3A48"/>
+    <rect width="594" height="36" rx="18" fill="#111922"/>
+    <circle cx="18" cy="18" r="4" fill="#FF6B6B"/><circle cx="34" cy="18" r="4" fill="#FFD166"/><circle cx="50" cy="18" r="4" fill="#7CFFB2"/>
+    <text x="72" y="22" fill="#7D8995" font-family="monospace" font-size="10">FlutterLens · connected</text>
+    <rect x="16" y="52" width="242" height="174" rx="12" fill="#0B1118" stroke="#263441"/>
+    <rect x="272" y="52" width="306" height="174" rx="12" fill="#0B1118" stroke="#263441"/>
+    <text x="30" y="72" fill="#6EE7FF" font-family="monospace" font-size="10">WIDGET TREE</text>
+    <text x="286" y="72" fill="#D8FF72" font-family="monospace" font-size="10">INSPECTOR</text>
+    <circle cx="34" cy="94" r="3" fill="#7CFFB2"/><text x="46" y="98" fill="#F1F5F9" font-family="monospace" font-size="11">MaterialApp</text>
+    <path d="M34 97V118H50" stroke="#475666" stroke-width="2"/><circle cx="50" cy="118" r="3" fill="#6EE7FF"/><text x="62" y="122" fill="#F1F5F9" font-family="monospace" font-size="11">Scaffold</text>
+    <path d="M50 121V142H66" stroke="#475666" stroke-width="2"/><circle cx="66" cy="142" r="3" fill="#D8FF72"/><rect x="78" y="129" width="122" height="24" rx="6" fill="#13202A" stroke="#24505A"/><text x="88" y="145" fill="#F1F5F9" font-family="monospace" font-size="11">DashboardView</text>
+    <path d="M66 145V168H82" stroke="#475666" stroke-width="2"/><circle cx="82" cy="168" r="3" fill="#6EE7FF"/><text x="94" y="172" fill="#AEB9C5" font-family="monospace" font-size="10">Row</text>
+    <path d="M66 145V195H82" stroke="#475666" stroke-width="2"/><circle cx="82" cy="195" r="3" fill="#7CFFB2"/><text x="94" y="199" fill="#AEB9C5" font-family="monospace" font-size="10">PropertyPanel</text>
+
+    <text x="288" y="96" fill="#758391" font-family="monospace" font-size="9">SELECTED</text><text x="288" y="116" fill="#F4F8FC" font-family="monospace" font-size="13">DashboardView</text>
+    <rect x="288" y="128" width="272" height="30" rx="7" fill="#121B24"/><text x="300" y="147" fill="#AAB6C3" font-family="monospace" font-size="10">size        1180 × 720</text>
+    <rect x="288" y="166" width="272" height="30" rx="7" fill="#121B24"/><text x="300" y="185" fill="#AAB6C3" font-family="monospace" font-size="10">constraints BoxConstraints.tight</text>
+    <rect x="288" y="204" width="196" height="24" rx="7" fill="#132329" stroke="#24505A"/><text x="300" y="220" fill="#7CFFB2" font-family="monospace" font-size="10">lib/home.dart:42:11</text>
+    <rect x="494" y="204" width="66" height="24" rx="7" fill="#16202A"/><text x="510" y="220" fill="#6EE7FF" font-family="monospace" font-size="10">OPEN</text>
+  </g>
+  <rect x="36" y="282" width="210" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
