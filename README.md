@@ -78,7 +78,7 @@ The sender's display and receiver's camera become the transport channel — no W
 <tr>
 <td width="50%" valign="top">
 
-### ក [KhTextify](https://khtextify.app)
+### ក [khtextify.app](https://khtextify.app)
 
 **Khmer-first OCR and text tools for mobile.**
 
@@ -86,7 +86,7 @@ A project focused on extracting, organizing, transforming, and working with Khme
 
 `Flutter` `OCR` `Tesseract` `Supabase` `Khmer`
 
-**→ [Visit KhTextify](https://khtextify.app)**
+**→ [Visit khtextify.app](https://khtextify.app)**
 
 </td>
 <td width="50%" valign="top">
