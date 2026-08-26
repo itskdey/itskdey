@@ -1,1 +1,32 @@
-<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg"><defs><pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#223142" opacity=".32"/></pattern><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6EE7FF"/><stop offset="1" stop-color="#D8FF72"/></linearGradient></defs><rect width="1200" height="180" rx="20" fill="#0A0F14"/><rect width="1200" height="180" rx="20" fill="url(#g)"/><rect x="1" y="1" width="1198" height="178" rx="19" stroke="#283543" stroke-width="2"/><text x="34" y="38" fill="#748291" font-family="monospace" font-size="12">workspace/building-now</text><text x="34" y="83" fill="#F4F8FC" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700">Shipping ideas into real projects.</text><text x="34" y="116" fill="#AEB9C5" font-family="Arial,Helvetica,sans-serif" font-size="18">Developer tools · local-first products · reusable Flutter UI</text><g transform="translate(860 24)"><rect width="296" height="126" rx="16" fill="#101720" stroke="#2C3947"/><text x="18" y="28" fill="#63717F" font-family="monospace" font-size="12">QUEUE</text><text x="18" y="56" fill="#EAF0F6" font-family="monospace" font-size="13">01  FlutterLens</text><text x="18" y="82" fill="#EAF0F6" font-family="monospace" font-size="13">02  QRFerry</text><text x="18" y="108" fill="#EAF0F6" font-family="monospace" font-size="13">03  khtextify.app</text></g><rect x="34" y="151" width="258" height="3" rx="1.5" fill="url(#a)"/></svg>
+<svg width="1200" height="170" viewBox="0 0 1200 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#223142" opacity=".32"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#6EE7FF"/>
+      <stop offset="1" stop-color="#D8FF72"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="170" rx="22" fill="#0A0F14"/>
+  <rect width="1200" height="170" rx="22" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="168" rx="21" stroke="#293646" stroke-width="2"/>
+
+  <text x="34" y="38" fill="#748291" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5">FEATURED BUILDS / 04</text>
+  <text x="34" y="87" fill="#F4F8FC" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Projects with a real idea behind them.</text>
+  <text x="34" y="122" fill="#AEB9C5" font-family="Arial, Helvetica, sans-serif" font-size="18">Developer tooling · optical transport · Khmer OCR · reusable Flutter UI</text>
+  <rect x="34" y="143" width="255" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <g transform="translate(895 34)">
+    <rect width="260" height="102" rx="16" fill="#0F161E" stroke="#2C3947"/>
+    <text x="18" y="25" fill="#617181" font-family="monospace" font-size="10">SHOWCASE INDEX</text>
+    <text x="18" y="51" fill="#6EE7FF" font-family="monospace" font-size="12">01</text>
+    <text x="50" y="51" fill="#EAF0F6" font-family="monospace" font-size="12">FlutterLens</text>
+    <text x="145" y="51" fill="#7CFFB2" font-family="monospace" font-size="12">02</text>
+    <text x="177" y="51" fill="#EAF0F6" font-family="monospace" font-size="12">QRFerry</text>
+    <text x="18" y="78" fill="#D8FF72" font-family="monospace" font-size="12">03</text>
+    <text x="50" y="78" fill="#EAF0F6" font-family="monospace" font-size="12">khtextify.app</text>
+    <text x="145" y="78" fill="#6EE7FF" font-family="monospace" font-size="12">04</text>
+    <text x="177" y="78" fill="#EAF0F6" font-family="monospace" font-size="12">dropdown</text>
+  </g>
+</svg>
