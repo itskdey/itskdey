@@ -23,7 +23,9 @@ Phnom Penh, Cambodia · [`@itskdey`](https://github.com/itskdey)
 
 ---
 
-## `> whoami`
+<p align="center">
+  <img src="./assets/banner-whoami.svg" alt="Who I am" width="100%" />
+</p>
 
 I'm a Flutter developer focused on **developer tooling**, **local-first mobile products**, and **Khmer-first software**.
 
@@ -40,7 +42,9 @@ shipping     open source · packages · experiments
 
 ---
 
-## `> building --now`
+<p align="center">
+  <img src="./assets/banner-building.svg" alt="What I'm building now" width="100%" />
+</p>
 
 <table>
 <tr>
@@ -103,7 +107,9 @@ Nested submenus, smart overlay positioning, hover feedback, rich leading widgets
 
 ---
 
-## `> selected --open-source`
+<p align="center">
+  <img src="./assets/banner-open-source.svg" alt="Selected open source" width="100%" />
+</p>
 
 | Project | Signal |
 | --- | --- |
@@ -114,7 +120,9 @@ Nested submenus, smart overlay positioning, hover feedback, rich leading widgets
 
 ---
 
-## `> stack`
+<p align="center">
+  <img src="./assets/banner-stack.svg" alt="My stack" width="100%" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=61DAFB" alt="Flutter" />
@@ -139,7 +147,9 @@ const interests = <String>[
 
 ---
 
-## `> focus --2026`
+<p align="center">
+  <img src="./assets/banner-focus.svg" alt="Current focus" width="100%" />
+</p>
 
 - Turn **FlutterLens** into a serious open-source inspection tool for Flutter developers.
 - Go deeper into **DevTools extensions, VM Service APIs, and Flutter Inspector internals**.
@@ -148,6 +158,10 @@ const interests = <String>[
 - Extract useful internal components into **small reusable Flutter packages**.
 
 ---
+
+<p align="center">
+  <img src="./assets/banner-contact.svg" alt="Let's connect" width="100%" />
+</p>
 
 <div align="center">
 
