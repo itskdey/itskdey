@@ -27,9 +27,7 @@ Phnom Penh, Cambodia · [`@itskdey`](https://github.com/itskdey)
   <img src="./assets/banner-whoami.svg" alt="Who I am" width="100%" />
 </p>
 
-I'm a Flutter developer focused on **developer tooling**, **local-first mobile products**, and **Khmer-first software**.
-
-I like projects with a clear technical idea behind them — things that are useful, visually considered, and interesting enough to learn from in public.
+I'm a Flutter developer focused on **developer tooling**, **local-first mobile products**, and **Khmer-first software**. I like building things with a clear technical idea, a considered interface, and enough depth to learn from in public.
 
 ```text
 CURRENT MODE
@@ -50,11 +48,11 @@ shipping     open source · packages · experiments
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [FlutterLens](https://github.com/itskdey/flutterlens)
+<img src="./assets/project-flutterlens.svg" alt="FlutterLens project banner" width="100%" />
 
-**A modern visual inspector for Flutter.**
+### [FlutterLens](https://github.com/itskdey/flutterlens)
 
-A DevTools extension built around the real Flutter Inspector and VM Service, with a live widget tree, selection sync, properties, layout information, and source locations.
+Inspect running Flutter apps with a **live widget tree, selection sync, layout details, and source navigation**.
 
 `DevTools` `Inspector` `VM Service` `Flutter`
 
@@ -63,11 +61,11 @@ A DevTools extension built around the real Flutter Inspector and VM Service, wit
 </td>
 <td width="50%" valign="top">
 
-### ◫ [QRFerry](https://github.com/itskdey/qr_ferry_flutter)
+<img src="./assets/project-qrferry.svg" alt="QRFerry project banner" width="100%" />
 
-**Offline file transfer through animated QR codes.**
+### [QRFerry](https://github.com/itskdey/qr_ferry_flutter)
 
-The sender's display and receiver's camera become the transport channel — no Wi-Fi, Bluetooth, account, cloud storage, or backend required.
+Transfer files between devices through **animated QR frames** — no network, account, cloud storage, or backend.
 
 `Flutter` `QR byte mode` `CRC32` `Local-first`
 
@@ -78,11 +76,11 @@ The sender's display and receiver's camera become the transport channel — no W
 <tr>
 <td width="50%" valign="top">
 
-### ក [khtextify.app](https://khtextify.app)
+<img src="./assets/project-khtextify-app.svg" alt="khtextify.app project banner" width="100%" />
 
-**Khmer-first OCR and text tools for mobile.**
+### [khtextify.app](https://khtextify.app)
 
-A project focused on extracting, organizing, transforming, and working with Khmer text using OCR and practical language utilities.
+Khmer-first OCR and text utilities for **extracting, cleaning, organizing, and working with Khmer text**.
 
 `Flutter` `OCR` `Tesseract` `Supabase` `Khmer`
 
@@ -91,11 +89,11 @@ A project focused on extracting, organizing, transforming, and working with Khme
 </td>
 <td width="50%" valign="top">
 
-### ⌄ [full_width_dropdown_button](https://github.com/itskdey/full_width_dropdown_button)
+<img src="./assets/project-dropdown.svg" alt="full_width_dropdown_button project banner" width="100%" />
 
-**A polished reusable dropdown package for Flutter.**
+### [full_width_dropdown_button](https://github.com/itskdey/full_width_dropdown_button)
 
-Nested submenus, smart overlay positioning, hover feedback, rich leading widgets, and smooth interaction animations.
+A polished Flutter dropdown package with **nested submenus, smart positioning, and animated interactions**.
 
 `Flutter Package` `UI` `Overlay` `Animation`
 
@@ -111,11 +109,11 @@ Nested submenus, smart overlay positioning, hover feedback, rich leading widgets
   <img src="./assets/banner-open-source.svg" alt="Selected open source" width="100%" />
 </p>
 
-| Project | Signal |
+| Project | What it explores |
 | --- | --- |
-| **[FlutterLens](https://github.com/itskdey/flutterlens)** | Flutter runtime inspection with real DevTools + Inspector APIs |
-| **[QRFerry](https://github.com/itskdey/qr_ferry_flutter)** | Air-gapped optical file transfer using animated QR frames |
-| **[full_width_dropdown_button](https://github.com/itskdey/full_width_dropdown_button)** | Reusable interaction-heavy Flutter UI package |
+| **[FlutterLens](https://github.com/itskdey/flutterlens)** | Runtime inspection using real Flutter DevTools + Inspector APIs |
+| **[QRFerry](https://github.com/itskdey/qr_ferry_flutter)** | Air-gapped optical transfer using animated QR frames |
+| **[full_width_dropdown_button](https://github.com/itskdey/full_width_dropdown_button)** | Interaction-heavy reusable Flutter UI |
 | **[tesseract_khmer_training](https://github.com/itskdey/tesseract_khmer_training)** | Khmer OCR training and recognition experiments |
 
 ---
@@ -124,7 +122,7 @@ Nested submenus, smart overlay positioning, hover feedback, rich leading widgets
   <img src="./assets/banner-stack.svg" alt="My stack" width="100%" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=61DAFB" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=61DAFB" alt="Dart" />
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=B7FF64" alt="Supabase" />
@@ -151,11 +149,10 @@ const interests = <String>[
   <img src="./assets/banner-focus.svg" alt="Current focus" width="100%" />
 </p>
 
-- Turn **FlutterLens** into a serious open-source inspection tool for Flutter developers.
+- Turn **FlutterLens** into a serious open-source inspection tool.
 - Go deeper into **DevTools extensions, VM Service APIs, and Flutter Inspector internals**.
-- Build interfaces with better **motion, interaction, and visual identity**.
-- Improve software and tooling for **Khmer-language users**.
-- Extract useful internal components into **small reusable Flutter packages**.
+- Build interfaces with stronger **motion, interaction, and visual identity**.
+- Ship better tools for **Khmer-language users** and reusable Flutter packages.
 
 ---
 
@@ -167,13 +164,9 @@ const interests = <String>[
 
 ### `build interesting things → make them useful → open-source the good parts`
 
-<br />
-
 Working on Flutter tooling, mobile products, developer experience, or Khmer technology?
 
 **[Email me](mailto:meanpheakdey069@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mean-pheakdey-6849a4287/) · [X](https://twitter.com/itskdey)**
-
-<br />
 
 <sub>Phnom Penh, Cambodia · @itskdey</sub>
 
