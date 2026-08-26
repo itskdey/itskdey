@@ -50,24 +50,24 @@
   </g>
 
   <g transform="translate(344 245)">
-    <rect width="132" height="40" rx="12" fill="#101720" stroke="#2B3642"/>
+    <rect width="160" height="40" rx="12" fill="#101720" stroke="#2B3642"/>
     <circle cx="18" cy="20" r="5" fill="#D8FF72"/>
-    <text x="32" y="25" fill="#EDF3FA" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">KhTextify</text>
+    <text x="32" y="25" fill="#EDF3FA" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">khtextify.app</text>
   </g>
 
-  <g transform="translate(900 90)">
-    <rect width="312" height="184" rx="20" fill="#0F151D" stroke="#2C3744"/>
+  <g transform="translate(900 82)">
+    <rect width="312" height="204" rx="20" fill="#0F151D" stroke="#2C3744"/>
     <rect x="1" y="1" width="310" height="44" rx="19" fill="#121A23" stroke="#24303C"/>
     <circle cx="20" cy="23" r="5" fill="#6EE7FF"/>
     <text x="34" y="28" fill="#8B9AA9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">developer.status</text>
 
     <text x="18" y="72" fill="#62707E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">$ focus</text>
-    <text x="18" y="100" fill="#F4F8FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">→ Flutter tooling</text>
-    <text x="18" y="124" fill="#F4F8FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">→ Product UI / UX</text>
-    <text x="18" y="148" fill="#F4F8FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">→ Local-first mobile apps</text>
-    <text x="18" y="172" fill="#F4F8FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">→ Khmer OCR experiments</text>
+    <text x="18" y="102" fill="#F4F8FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">→ Flutter tooling</text>
+    <text x="18" y="127" fill="#F4F8FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">→ Product UI / UX</text>
+    <text x="18" y="152" fill="#F4F8FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">→ Local-first mobile apps</text>
+    <text x="18" y="177" fill="#F4F8FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">→ Khmer OCR experiments</text>
 
-    <rect x="18" y="154" width="118" height="3" rx="1.5" fill="url(#accentA)" opacity="0.9"/>
+    <rect x="18" y="190" width="118" height="3" rx="1.5" fill="url(#accentA)" opacity="0.9"/>
   </g>
 
   <path d="M830 76H854V100" stroke="#6EE7FF" stroke-width="2" opacity="0.7"/>
